@@ -20,3 +20,12 @@ nav ul {
 nav ul li {
     margin: 1rem;
 }
+
+* {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,9 @@
+---
+layout: "base.njk"
+title: Life is strange...
+---
+
+Today I was sitting in my car at the parking lot of my school, door open, watching and listening. Suddenly I felt somehow depressed and lucky at the same time. I realized the days and weeks ahead of me would be the last few days I'll spend there. The school whose people I always admired were kind of around me laughed shouted and took photos of the last days of regular school. With the wind and the sun on my face, I felt proud. Proud that I got so far. Proud of the privilege that was given to me to live on this spot on earth...
+I was like Max in the famous game "Life is Strange"...
+
+`2021-04-27 13:58`

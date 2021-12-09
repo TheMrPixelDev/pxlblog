@@ -1,23 +1,16 @@
 {
-  "name": "pxlblog",
+  "name": "pxlblog-eleventy",
   "version": "1.0.0",
-  "description": "This is the source code of the static version of my website and blog at pxldeveloper.eu.",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node build.js"
+    "test": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TheMrPixelDev/pxlblog.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TheMrPixelDev/pxlblog/issues"
-  },
-  "homepage": "https://github.com/TheMrPixelDev/pxlblog#readme",
-  "dependencies": {
-    "marked": "^4.0.6"
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
   }
 }

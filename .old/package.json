@@ -1,0 +1,23 @@
+{
+  "name": "pxlblog",
+  "version": "1.0.0",
+  "description": "This is the source code of the static version of my website and blog at pxldeveloper.eu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMrPixelDev/pxlblog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheMrPixelDev/pxlblog/issues"
+  },
+  "homepage": "https://github.com/TheMrPixelDev/pxlblog#readme",
+  "dependencies": {
+    "marked": "^4.0.6"
+  }
+}

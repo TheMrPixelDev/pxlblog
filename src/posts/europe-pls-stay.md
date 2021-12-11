@@ -1,5 +1,6 @@
 ---
-layout: "base.njk"
+layout: "post.njk"
+dt: 2021-04-12 15:40
 title: EUROPE PLS STAY!
 ---
 
@@ -9,5 +10,3 @@ I have a dream that one day I will not just call myself a citizen of Germany but
 To all my European fellows: Let's work and stand together!
 
 See this inspiring video: [https://youtu.be/POf0VzZYgD0](https://youtu.be/POf0VzZYgD0)
-
-`2021-04-12,15:40`

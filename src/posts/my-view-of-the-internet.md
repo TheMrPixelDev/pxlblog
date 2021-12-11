@@ -1,5 +1,6 @@
 ---
-layout: "base.njk"
+layout: "post.njk"
+dt: 2021-04-08,11:49
 title: My view of the Internet
 ---
 
@@ -7,5 +8,3 @@ Back in 2019 when I saw this talk ("The Planet Friendly Web") at the CCC it blew
 
 Source:
 [media.ccc.de](https://media.ccc.de/v/36c3-10506-the_planet_friendly_web)
-
-`2021-04-08,11:49`

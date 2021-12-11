@@ -1,5 +1,6 @@
 ---
-layout: "base.njk"
+layout: "post.njk"
+dt: 2021-04-29 15:55
 title: WE NEED TO GET PAST THIS PLANET
 ---
 
@@ -7,5 +8,3 @@ This title may sound a bit paradoxical since I commit myself to environmental pr
 In case you are still not convinced I encourage you to get yourself into the topic with the help of the opinion of a quite smart person that inspired me: Stephen Hawking
 
 [https://www.cnbc.com/2017/05/05/stephen-hawking-human-extinction-colonize-planet.html](https://www.cnbc.com/2017/05/05/stephen-hawking-human-extinction-colonize-planet.html)
-
-`2021-04-29 15:55`

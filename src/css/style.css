@@ -55,3 +55,9 @@ li a {
     text-decoration: none;
     
 }
+
+footer {
+    margin: 0 auto;
+    margin-top: 5rem;
+    max-width: 70%;
+}

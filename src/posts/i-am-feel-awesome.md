@@ -1,5 +1,6 @@
 ---
-layout: "base.njk"
+layout: "post.njk"
+dt: 12021-08-28 20:23
 title: I feel awesome! (I am awesome)
 ---
 
@@ -7,5 +8,3 @@ I am currently sitting in an Irish Pub with some friends and it might be the alc
 [so schoen by Cro](https://open.spotify.com/track/1Zz0sHugKITBf0ItiuhmkK?si=ZgAYfIxsTeiFuL5ySE9Yqw&utm_source=copy-link&dl_branch=1)
 
 Thank you all my friends <3
-
-`2021-08-28 20:23`

@@ -1,0 +1,32 @@
+---
+layout: "base.njk"
+title: Hall of Fame
+---
+
+<style>
+    .hero-container img {
+        max-height: 15rem;
+        border-radius: 7px;
+    }
+    .hero-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap:
+    }
+
+    .hero-container * {
+        margin: 1rem;
+    }
+</style>
+
+{% for hero in collections.heroes %}
+
+<div class="hero-container">
+    <img src="/assets/images/{{ hero.data.picture }}" title="{{ hero.data.title }}">
+    <div>
+        <h2>{{ hero.data.title }}</h2>
+        <p>{{ hero.data.text }}</p>
+    </div>
+</div>
+
+{% endfor %}

@@ -1,3 +1,8 @@
+@font-face {
+    font-family: text-marker;
+    src: url("/assets/fonts/PermanentMarker-Regular.ttf");
+}
+
 body {
     background-color: black;
     color: white;
@@ -23,13 +28,14 @@ main {
 
 main a {
     color: white;
-    text-decoration-style: dashed;
+    text-decoration-style: dotted;
     text-decoration-color: white;
 }
 
 h1 {
     font-weight: bolder;
     font-size: 3rem;
+    font-family: text-marker;
 }
 
 nav ul {
@@ -43,6 +49,12 @@ nav ul {
 nav {
     margin: 0px;
     padding: 0px;
+}
+
+ul {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 li {

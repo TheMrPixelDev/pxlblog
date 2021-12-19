@@ -1,6 +1,6 @@
 @font-face {
-    font-family: text-marker;
-    src: url("/assets/fonts/PermanentMarker-Regular.ttf");
+    font-family: many-dots;
+    src: url("/assets/fonts/ManyDotsDemoRegular.ttf");
 }
 
 body {
@@ -33,9 +33,9 @@ main a {
 }
 
 h1 {
-    font-weight: bolder;
-    font-size: 3rem;
-    font-family: text-marker;
+    /*font-weight: bolder;*/
+    font-size: 4rem;
+    font-family: many-dots;
 }
 
 nav ul {

@@ -1,5 +1,5 @@
 ---
-title: Julian's Blog
+title: Blog of Julian
 layout: "base.njk"
 ---
 

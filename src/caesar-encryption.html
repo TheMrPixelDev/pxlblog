@@ -37,13 +37,26 @@
         footer {
             margin-top: 10em;
         }
+        nav a {
+            text-decoration: none;
+            color: white;
+            font-weight: bolder;
+        }
+        nav a img {
+            filter: invert(1);
+            height: 1rem;
+        }
     </style>
+    
 </head>
 <body>
     <main>
     <header>
-        <h1>Cäsar's Scheibe</h1>
+        <nav>
+            <a href="/"><img src="/assets/icons/home-solid.svg" alt="" srcset=""> GO BACK TO MAIN PAGE</a>
+        </nav>
     </header>
+    <h1>Cäsar's Scheibe</h1>
     <div class="box">
         <label for="textIn">Text</label><br>
         <textarea name="inText" id="textIn" cols="50" rows="10"></textarea><br>
@@ -59,6 +72,18 @@
         <label for="textOut">Ausgabe</label><br>
         <textarea name="" id="textOut" cols="50" rows="10"></textarea>
     </div>
+
+    <div class="box">
+        <h1>Cäsar Cracker</h1>
+    </div>
+    <div class="box">
+        <label for="encTextIn">Verschlüsselter Text</label><br>
+        <textarea name="" id="encText" cols="50" rows="10"></textarea>
+    </div>
+    <div class="box">
+        <button onclick="crackKey()">Schlüssel ermitteln</button>
+    </div>
+    <div id="keyOut"></div>
     <footer>
         <p>Copyright Julian Harrer</p>
         <p>Mit großer Freude von Julian gebaut.</p>

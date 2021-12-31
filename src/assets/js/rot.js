@@ -32,7 +32,7 @@ function code(){
     }
 }
 
-function crackKey() {
+function findKey() {
     var inText = document.getElementById("encText").value.toUpperCase().split("");
     const alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
     const letterCount = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]

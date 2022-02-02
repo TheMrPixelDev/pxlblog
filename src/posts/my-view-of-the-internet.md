@@ -1,6 +1,6 @@
 ---
 layout: "post.njk"
-dt: 2021-04-08,11:49
+dt: 2021-04-08 11:49
 title: My view of the Internet
 ---
 

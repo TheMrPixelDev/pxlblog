@@ -13,7 +13,14 @@ exports.data = {
     pictures: picFiles
 }*/
 
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+
 module.exports = function(eleventyConfig) {
+    eleventyConfig.addPlugin(pluginRss, {
+        posthtmlRenderOptions: {
+            closingSingleTag: "default"
+        }
+    });
     eleventyConfig.addPassthroughCopy("./src/assets/")
     return {
         dir: {

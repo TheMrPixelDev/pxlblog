@@ -1,6 +1,6 @@
 ---
 layout: "post.njk"
-dt: 2021-04-27 13:58
+dt: 2021-04-27T13:58:00-01:00
 title: Life is strange...
 ---
 

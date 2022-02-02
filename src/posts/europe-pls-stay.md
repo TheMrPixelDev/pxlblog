@@ -1,6 +1,6 @@
 ---
 layout: "post.njk"
-dt: 2021-04-12 15:40
+dt: 2021-04-12T15:40:00-01:00
 title: EUROPE PLS STAY!
 ---
 

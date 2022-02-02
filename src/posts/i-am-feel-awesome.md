@@ -1,6 +1,6 @@
 ---
 layout: "post.njk"
-dt: 12021-08-28 20:23
+dt: 2021-08-28T20:23:00-01:00
 title: I feel awesome! (I am awesome)
 ---
 

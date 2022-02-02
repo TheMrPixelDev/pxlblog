@@ -1,6 +1,6 @@
 ---
 layout: "post.njk"
-dt: 12021-03-29 23:10
+dt: 2021-03-29T23:10:00-01:00
 title: A minimal web
 ---
 

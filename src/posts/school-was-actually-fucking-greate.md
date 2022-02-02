@@ -1,6 +1,6 @@
 ---
 layout: "post.njk"
-dt: 2021-07-29 13:27
+dt: 2021-07-29T13:27:00-01:00
 title: School was actually f*cking greate
 ---
 

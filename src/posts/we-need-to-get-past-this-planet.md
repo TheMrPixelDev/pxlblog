@@ -1,6 +1,6 @@
 ---
 layout: "post.njk"
-dt: 2021-04-29 15:55
+dt: 2021-04-29T15:55:00-01:00
 title: WE NEED TO GET PAST THIS PLANET
 ---
 

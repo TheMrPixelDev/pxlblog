@@ -1,11 +1,7 @@
 ---
 layout: "base.njk"
-title: About
+title: Contact
 ---
-
-## This website
-
-This is the blog of Julian H. It's meant to just express my mind and sometimes even blow of steam.
 
 ## Contact
 

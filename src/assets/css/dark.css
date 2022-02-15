@@ -1,0 +1,12 @@
+.dark {
+    background: rgb(37, 37, 41);
+    color: white;
+}
+
+.dark a {
+    color: white;
+}
+
+#rss-icon {
+    filter: invert(1);
+}

@@ -21,11 +21,24 @@
     </main>
     {% include "footer.njk" %}
     <script>
+
+        let darkmode = document.cookie.split("=")[1];
+        if(darkmode == "false"){
+            document.body.classList.remove("dark");
+            document.getElementById("darkmode-checkbox").checked = true;
+        }
+
         function toggleDarkmode() {
             if(document.body.classList.contains("dark")) {
                 document.body.classList.remove("dark")
+                document.cookie = "darkmode=false";
+                document.getElementById("gh-stats").src = "https://github-readme-stats.vercel.app/api?username=TheMrPixelDev&show_icons=true";
+                document.getElementById("gh-top-langs").src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TheMrPixelDev&layout=compact";
             }else{
                 document.body.classList.add("dark")
+                document.cookie = "darkmode=true";
+                document.getElementById("gh-stats").src = "https://github-readme-stats.vercel.app/api?username=TheMrPixelDev&theme=dark&show_icons=true";
+            document.getElementById("gh-top-langs").src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TheMrPixelDev&theme=dark&layout=compact";
             }
         }
     </script>

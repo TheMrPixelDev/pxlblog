@@ -28,7 +28,7 @@ Hey my name is Julian, I am a 20 year old student at the University of Passau, w
 ## My Github Statistics
 
 <p>
-<img id="gh-stats" align="center" src="https://github-readme-stats.vercel.app/api?username=TheMrPixelDev&theme=dark&show_icons=true" alt="fabian9799" /><br><br>
+<img id="gh-stats" style="max-width: 90vw" align="center" src="https://github-readme-stats.vercel.app/api?username=TheMrPixelDev&theme=dark&show_icons=true" alt="fabian9799"/><br><br>
 <img id="gh-top-langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMrPixelDev&theme=dark&layout=compact"/>
 </p>
 

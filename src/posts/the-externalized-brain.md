@@ -1,0 +1,7 @@
+---
+layout: "post.njk"
+dt: 2022-03-03T22:00:00-01:00
+title: The externalized brain
+---
+
+Today at university a collegue of mine joked about with calling me a goldfish (not in an offending way of course), since I tend to forget things relatively fast. This of course only applies to the things that my brain doesn't consider to that importante or interessting but anyway... For thousands of years humanities only way to keep information alive or maybe paint a picture/ to write it down on paper. The advancement of being able to capture huge loads of information like memories and knowledge in a cheap way is actually just a fairly recent development. It started with book printing continued with photographie or filmmaking and ended in the digital age where every single thing we do seems to be recorded at any time. In the short two decades I have already lived on this planet I have propably produced hundreds or even housands of gigabytes of permanent data. Photos, videos, documents and chat messenges which some kind of build some kind of profile around my true self. Might it be that my biology just knows about this hughe collection of memories being constantly available and therfore sorting out things that are not that impotant since they are already saved somewhere else? Shurely I am not the onlyone with these thoughts. I am just reflecting here, like as if I was talking to myself but in a more public way ;-).

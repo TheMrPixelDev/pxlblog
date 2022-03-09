@@ -1,0 +1,33 @@
+---
+title: Gallery
+layout: base.njk
+---
+
+<script>
+    const main = document.querySelector("main");
+    fetch("https://api.pxldeveloper.eu/pxlblog.php")
+    .then(res => {
+        res.json()
+        .then(json => {
+            json.forEach(pic => {
+                if(pic != "." && pic != ".."){
+                    var img = document.createElement("img");
+                    img.src = "https://api.pxldeveloper.eu/pxlblog/gallery/" + pic;
+                   main.appendChild(img);
+                }
+            });
+        })
+    })
+</script>
+
+<style>
+
+    main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    main img {
+        height: 10rem;
+    }
+</style>

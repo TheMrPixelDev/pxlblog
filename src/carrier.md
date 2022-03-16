@@ -36,3 +36,7 @@ title: Carrier
         height: 1.3rem;
     }
 </style>
+
+## Papers
+
+<iframe src="/assets/docs/KuenstlicheNeuronaleNetzeJulianHarrer.pdf" width="100%" height=1000px">

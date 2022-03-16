@@ -10,11 +10,9 @@ layout: base.njk
         res.json()
         .then(json => {
             json.forEach(pic => {
-                if(pic != "." && pic != ".."){
-                    var img = document.createElement("img");
-                    img.src = "https://api.pxldeveloper.eu/pxlblog/gallery/" + pic;
-                   main.appendChild(img);
-                }
+                var img = document.createElement("img");
+                img.src = "https://api.pxldeveloper.eu/pxlblog/gallery/" + pic.file;
+                main.appendChild(img);
             });
         })
     })
@@ -29,5 +27,6 @@ layout: base.njk
 
     main img {
         height: 10rem;
+        margin: 3px;
     }
 </style>

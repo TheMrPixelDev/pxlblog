@@ -5,11 +5,11 @@ title: Manifest
 
 ## Präambel
 
-Meine Glaube ist es, dass jeder Mensch eine Haltung hat welche in ausmacht und repräsentiert. Glaubenssätze die unerschütterlich in seinem Dasein veranket sind, die ihm zu dem machen was er ist. Diese helfen ihm seinen Platz in dieser stetig komplexer werdenden Welt zu finden, sein Handeln, Wirken und seine Wahrnehmung zu formen. Niederschreiben tue ich dies an dieser Stelle um allen daran interessierten eine Chance zu geben sich einen Eindruck davon zu machen und eventuell selbst diese inspiration zu finden.
+Meine Glaube ist es, dass jeder Mensch eine Haltung hat welche ihn ausmacht und repräsentiert. Glaubenssätze die unerschütterlich in seinem Dasein veranket sind, die ihm zu dem machen was er ist. Diese helfen ihm seinen Platz in dieser stetig komplexer werdenden Welt zu finden, sein Handeln, Wirken und seine Wahrnehmung zu formen. Niederschreiben tue ich dies an dieser Stelle um allen daran interessierten eine Chance zu geben sich einen Eindruck davon zu machen und eventuell selbst diese Inspiration zu finden.
 
 ## Demokratie
 
-Als Europäer deutscher Nation bin ich mir der großen Verantwortung meiner sowie der vorausgehenden und nachfolgenden Generation bewusst im Bezug auf die dunkle Geschichte unseres Landes. Nicht zuletzt deshalb ist für mich die Demokratie das wichtigste Gut in einem politischen System und welche nach welcher es Wert ist sein Leben auszurichten. Ich würde sogar soweit gehen zu sagen, dass dieses System so alternativlos, dass ich nur darin Leben und gedanklich überleben kann.
+Als Europäer deutscher Nation bin ich mir der großen Verantwortung meiner, sowie der vorausgehenden und nachfolgenden Generation bewusst im Bezug auf die dunkle Geschichte unseres Landes. Nicht zuletzt deshalb ist für mich die Demokratie das wichtigste Gut in einem politischen System und welche nach welcher es Wert ist sein Leben auszurichten. Ich würde sogar soweit gehen zu sagen, dass dieses System so alternativlos, dass ich nur darin Leben und gedanklich überleben kann.
 
 ## Internet
 

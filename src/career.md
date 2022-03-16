@@ -1,6 +1,6 @@
 ---
 layout: "base.njk"
-title: Carrier
+title: Career
 ---
 
 ## Education ![](/assets/icons/graduation-cap-solid.svg)

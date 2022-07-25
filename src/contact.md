@@ -21,7 +21,9 @@ E-Mail: [mrpixel@tutanota.de](mailto:mrpixel@tutanot)
 <br>
 <img src="/assets/icons/telegram-brands.svg" class="media-icons"> [pixeljulian](https://t.me/pixeljulian)
 <br>
-<img src="/assets/icons/instagram-brands.svg" class="media-icons"> @julianthefortunate
+<img src="/assets/icons/instagram-brands.svg" class="media-icons"> [@julianthefortunate](https://www.instagram.com/julianthefortunate/)
+<br>
+<img src="/assets/icons/matrix_logo.svg" style="background-color: white; border-radius: 100%; padding: 3px" class="media-icons"> @themrpixel:matrix.org
 
 <style>
     .media-icons {
